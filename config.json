@@ -1,1 +1,3 @@
-{ force_use_local_offsets: false }
+{
+  "force_use_local_offsets": false
+}
